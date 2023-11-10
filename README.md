@@ -25,4 +25,4 @@ to provide guidance on everything from plant protection to post-harvest manageme
 However, there may be challenges in creating a successful supply chain ecosystem that connects 
 farmers and consumers in a sustainable and efficient way. The purpose of this report is to assess 
 the effectiveness of E Farm's services and identify any potential challenges or areas for 
-improvement in the platform's business model.
+improvement in the platform's business model.Prototype link::::https://www.canva.com/design/DAFXMKpWnLg/V0zkRByPu9KMAEuE4WL3KA/edit?utm_content=DAFXMKpWnLg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
